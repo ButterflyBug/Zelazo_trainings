@@ -1,1 +1,4 @@
 requests==2.22.0
+isodate==0.6.0
+flake8==3.8.4
+autopep8==1.5.4
